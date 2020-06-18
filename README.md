@@ -1,16 +1,19 @@
-# P4np1_Prank
+# P4wnp1_Prank
 Yes, this is the revenge repo !! |^v^|
 
 I had a computer-revenge to take on a teammate.
 What better tool than the awesome <url=https://github.com/RoganDawes/P4wnP1_aloa>P4wnP1_aloa</url> to accomplish it.
 
 My goal is to disturb him. I don't want to destroy is computer, so there will be no meterpreter, no malware, no password exfiltration, etc...
-There might be some if he responds back ^^
+But... There might be some if he responds back ^^
 
-I decided to split the script in 6 parts, the seventh is the whole pack.
-Why splitting, I noticed that on the same machine, the "keyboard" does not act always the same way, from time to time, it's malfunctionning. Splitting the script allows to proceed with the next step without carring about the failure of the previous one.
+I decided to split the script in 7 parts, the 00 one is the whole pack.
+Why splitting? I noticed that on the same machine, the "keyboard" does not act always the same way, from time to time, it's malfunctionning. Splitting the script allows to proceed with the next step without carring about the failure of the previous one.
 
-Let's speak of what we are going to do... Please note that everything here will be layout("fr");
+Let's speak of what we are going to do... Please note that everything here will be layout("fr") and that it works on the may 2020 windows 10 update;
+
+# 00_godsWrath_jeremPrank
+This one is a set of the most efficient pranks, set in just one script.
 
 # 01_DisableWinDef_JeremPrank
 Pretty self explanatory, this will use keyboard to self disable Winbdows Defender (Why? We never knows...)
@@ -31,11 +34,9 @@ This script will download it from my personnal server, on his computer, and set 
 This theme include wallpaper, sound theme, color, etc...
 
 # 06_BurstFiles_JeremPrank
-Also a big anoyance, this one will set an infinite loop of file createdtion on the desktop.
+Also a big anoyance, this one will set an infinite loop of file creation on the desktop.
 In other words, in a few minutes, the hard drive will be full of empty 3Mo files saying "do_Not_Fuck_With_Me.XX"
 
-# 07_godsWrath_jeremPrank
-This one is the whole prank set in just one script.
 
 
 
